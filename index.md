@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I'm **Amal Nath**, a postdoctoral researcher at the **Department of Biomedical Engineering, Lund University, Sweden**.  
+Hi! I'm **Amal Nath**, a researcher at the **Department of Biomedical Engineering, Lund University, Sweden**.  
 My research focuses on **lab-on-a-chip systems**, particularly **acoustofluidics and acoustic particle manipulation**. I design, develop, and validate microfluidic platforms for clinically relevant applications, such as blood plasma separation.  
 
 I have experience in computational modeling with **MATLAB** and **COMSOL Multiphysics**, microfluidic design in **Autodesk Fusion 360**, and fabrication using **micromilling** and **3D printing**. My work spans engineering design, experimental validation, and clinical assessment.
@@ -25,6 +25,15 @@ I have experience in computational modeling with **MATLAB** and **COMSOL Multiph
 
 ---
 
+## Work Experience
+
+- **Researcher**, Lund University, Feb 2026 - ongoing
+  
+- **Postdoctoral Researcher**, Lund University, Jan 2023 - Jan 2026  
+
+- **Research Associate**, Indian Institute of Technology Madras, Aug 2022 - Dec 2022  
+
+---
 ## Education
 
 - **Ph.D., Mechanical Engineering**, Indian Institute of Technology Madras, 2022  
@@ -46,8 +55,10 @@ I have experience in computational modeling with **MATLAB** and **COMSOL Multiph
 
 ## Grants Received
 
-- Technology grant, 2025 - Sten K Johnsons Stiftelse, Sweden, 200,000 SEK
-- Endowments for Natural Sciences, Medicine and Technology - Technology grant, 2025 - The Royal Physiographic Society, Sweden, 156,010 SEK 
+- Technology grant, 2025 - Sten K Johnsons Stiftelse, Sweden, 200 000 SEK
+- Endowments for Natural Sciences, Medicine and Technology - Technology grant, 2025 - The Royal Physiographic Society, Sweden, 156 010 SEK
+- Seedling project grant, 2026 - NanoLund, Sweden, 100 000 SEK
+- Early career researcher travel grant, 2026 - Fysiografen, 18 000 SEK
 
 ---
 
